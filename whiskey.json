@@ -1,0 +1,9 @@
+//whiskey types
+{
+  "whiskeys": {
+    "Oban": "TK type",
+    "Whistlepig": "TK type",
+    "Jameson": "TK",
+    "Glenrothes": "TK"
+  }
+}
